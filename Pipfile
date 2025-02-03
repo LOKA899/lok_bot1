@@ -19,4 +19,4 @@ python-engineio = {editable = true, ref = "v3.14.3", git = "https://github.com/h
 [dev-packages]
 
 [requires]
-python_version = "3.12"
+python_version = "3.10"
